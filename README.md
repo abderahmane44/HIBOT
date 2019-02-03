@@ -1,1 +1,1 @@
-# HIBOT
+# Quick-MuS
